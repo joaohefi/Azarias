@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "915699202778",
+    "firebase_url": "https://azarias-da5ec-default-rtdb.firebaseio.com",
+    "project_id": "azarias-da5ec",
+    "storage_bucket": "azarias-da5ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915699202778:android:fa1e2f60593ce61d1e03e3",
+        "android_client_info": {
+          "package_name": "com.example.azarias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915699202778-pl0csi5b8c54p7fe6u3be6496il8lkrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtqrKTckCxkidhBo-aTJ_5rZenz5ld1Kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915699202778-pl0csi5b8c54p7fe6u3be6496il8lkrt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
